@@ -1,0 +1,12 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "REST API Client for Issues",
+  "main": "client.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
